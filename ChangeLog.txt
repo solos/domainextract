@@ -1,0 +1,5 @@
+# domainextract changelog
+
+## 2013-08-05
+
+* First public version.
